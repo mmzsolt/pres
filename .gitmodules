@@ -1,0 +1,3 @@
+[submodule "hinta2017/reveal.js"]
+	path = hinta2017/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
