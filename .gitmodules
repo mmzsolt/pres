@@ -7,3 +7,6 @@
 [submodule "karacsony2019/reveal.js"]
 	path = karacsony2019/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "hinta2022/reveal.js"]
+	path = hinta2022/reveal.js
+	url = git@github.com:hakimel/reveal.js.git
